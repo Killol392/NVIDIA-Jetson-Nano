@@ -65,3 +65,7 @@ cv2.putText(image, str(counter), (10,50), cv2.FONT_HERSHEY_SIMPLEX, 1, (255,255,
 to give a display of number of reps and the state on the display screen
 
 I am also going to add an option of posture analysis in order to check the posture of the user while performing particular exercises so as to prevent unwanted injuries and created this prototype into a full fledge software that can work like a personalized trainer and give users a better experience
+
+For More Information Checkout my video  -- https://www.youtube.com/watch?v=JnI7tQAJJA0
+
+                                       ------------------------------------ Thank You -----------------------------------------
